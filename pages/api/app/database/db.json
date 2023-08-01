@@ -1,1 +1,40 @@
-{"users":[{"id":"1cb468dd-0f6e-4551-9834-337de6adb6f0","name":"John Doe","email":"john@doe.com","phone":"0000000000","password":"$2a$10$QIxJVUKlWLt53Dcw0IdG/.48ihT7HBouTO/fENLvD3vAesOXpMoPq","role":"admin","createdAt":"2023-02-25T07:45:49.457Z"}],"tokens":[],"posts":[],"comments":[]}
+{
+  "users": [
+    {
+      "id": "1cb468dd-0f6e-4551-9834-337de6adb6f0",
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "phone": "0000000000",
+      "password": "$2a$10$QIxJVUKlWLt53Dcw0IdG/.48ihT7HBouTO/fENLvD3vAesOXpMoPq",
+      "role": "admin",
+      "createdAt": "2023-02-25T07:45:49.457Z"
+    }
+  ],
+  "tokens": [],
+  "posts": [],
+  "comments": [],
+  "transactions": [
+    {
+      "id": "9f0024ae-401c-436b-9a87-9d034a56d952",
+      "sourceWalletId": "tech",
+      "amount": 123,
+      "category": "Thue nha",
+      "createdAt": "Tue Aug 01 2023",
+      "description": "Thue nha",
+      "destinationWalletId": null,
+      "paidAt": "Tue Aug 01 2023",
+      "updatedAt": "Tue Aug 01 2023"
+    },
+    {
+      "id": "a94fdfb5-c0b6-47bb-9219-3580e698b3b8",
+      "sourceWalletId": "tech",
+      "amount": 123,
+      "category": "Thue nha",
+      "createdAt": "Tue Aug 01 2023",
+      "description": "Thue nha",
+      "destinationWalletId": null,
+      "paidAt": "Tue Aug 01 2023",
+      "updatedAt": "Tue Aug 01 2023"
+    }
+  ]
+}
